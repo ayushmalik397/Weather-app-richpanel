@@ -1,7 +1,5 @@
 # weather-app
 
-> For RichPanel
-
 ## Build Setup
 
 ``` bash
